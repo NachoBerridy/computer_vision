@@ -1,2 +1,2 @@
 # Computer Vision
-Trabajo final IA2 - 2021
+Trabajo final IA1 - 2021
